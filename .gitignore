@@ -1,0 +1,12 @@
+# build outputs — nothing compiled belongs in the repository
+/bin/
+/dist/
+*.exe
+*.test
+*.out
+*.so
+*.dylib
+*.a
+*.prof
+coverage.*
+glimit
